@@ -1,0 +1,74 @@
+#navBar{
+    background-color: #21277B;
+    text-decoration-color: none;
+    font-size: 20px;
+}
+
+.nav-link{
+    color: #ffffff !important;
+    background: none;
+    box-shadow: none;
+    outline: none;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+#back{
+    
+    background-image: linear-gradient(60deg, #006AD7, #9AD9EA) !important;
+    color: #ffffff !important;
+
+}
+
+#back{
+    margin-top: 100px;
+    border-color: #ee781d !important;
+}
+p{
+    font-size: xx-large;
+    font-weight: 600;
+}
+h1{
+    color: #ce6b1a;
+}
+
+.fig{
+    font-size: x-large;
+    color: #ce6b1a;
+}
+
+.form-control {
+    margin-top: 10px;
+    background: rgba(0, 0, 0, .3);
+    border-style: none;
+    transition: 0.5s ease-in;
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.568);
+    
+}
+
+.form-control:focus {
+    background: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.form-control::placeholder {
+    color: white;
+}
+
+.calcular {
+    background: #222A3F;
+    padding: 10px;
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 700!important;
+    color: white;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.568);
+    transition: 0.5s ease-in;
+}
+
+.calcular:hover {
+    color: #ce6b1a;
+}
